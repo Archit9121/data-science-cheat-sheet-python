@@ -498,7 +498,7 @@ export default function App() {
       <header style={baseStyles.headerBar}>
         <h1 style={baseStyles.title}>Data Analysis API Reference Guide</h1>
         <p style={baseStyles.subtitle}>
-          Interactive lookup mapping NumPy, Pandas, and Python Visualization architectures based on production usage tracking.
+          Interactive lookup mapping NumPy, Pandas, and Python Visualization architectures based on usage.
         </p>
       </header>
 
